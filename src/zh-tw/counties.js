@@ -1,7 +1,7 @@
 module.exports = [
   {
-    id: '臺北市',
-    name: '臺北市'
+    id: '台北市',
+    name: '台北市'
   },
   {
     id: '基隆市',
@@ -32,8 +32,8 @@ module.exports = [
     name: '苗栗縣'
   },
   {
-    id: '臺中市',
-    name: '臺中市'
+    id: '台中市',
+    name: '台中市'
   },
   {
     id: '彰化縣',
@@ -56,8 +56,8 @@ module.exports = [
     name: '雲林縣'
   },
   {
-    id: '臺南市',
-    name: '臺南市'
+    id: '台南市',
+    name: '台南市'
   },
   {
     id: '高雄市',
@@ -72,8 +72,8 @@ module.exports = [
     name: '屏東縣'
   },
   {
-    id: '臺東縣',
-    name: '臺東縣'
+    id: '台東縣',
+    name: '台東縣'
   },
   {
     id: '花蓮縣',
