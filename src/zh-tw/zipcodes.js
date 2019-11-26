@@ -180,7 +180,7 @@ module.exports = [
     { 'id': 602, 'county': '嘉義縣', 'city': '番路鄉' },
     { 'id': 603, 'county': '嘉義縣', 'city': '梅山鄉' },
     { 'id': 604, 'county': '嘉義縣', 'city': '竹崎鄉' },
-    { 'id': 605, 'county': '嘉義縣', 'city': '阿里山鄉' },
+    { 'id': 605, 'county': '嘉義縣', 'city': '阿里山' },
     { 'id': 606, 'county': '嘉義縣', 'city': '中埔鄉' },
     { 'id': 607, 'county': '嘉義縣', 'city': '大埔鄉' },
     { 'id': 608, 'county': '嘉義縣', 'city': '水上鄉' },
