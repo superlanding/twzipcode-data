@@ -75,7 +75,7 @@ module.exports = [
     { 'id': 312, 'county': '新竹縣', 'city': '橫山鄉' },
     { 'id': 313, 'county': '新竹縣', 'city': '尖石鄉' },
     { 'id': 314, 'county': '新竹縣', 'city': '北埔鄉' },
-    { 'id': 315, 'county': '新竹縣', 'city': '峨眉鄉' },
+    { 'id': 315, 'county': '新竹縣', 'city': '峨嵋鄉' },
     { 'id': 320, 'county': '桃園市', 'city': '中壢區' },
     { 'id': 324, 'county': '桃園市', 'city': '平鎮區' },
     { 'id': 325, 'county': '桃園市', 'city': '龍潭區' },
